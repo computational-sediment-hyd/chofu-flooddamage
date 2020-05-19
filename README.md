@@ -1,5 +1,7 @@
 # chofu-flooddamage
 
+![demo](/github/layout.gif)
+
 ![demo](/github/layout.png)
 
 ## Licence
